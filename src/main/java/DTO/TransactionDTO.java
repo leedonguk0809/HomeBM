@@ -1,4 +1,4 @@
-package com.dto;
+package DTO;
 
 public class TransactionDTO {
 
