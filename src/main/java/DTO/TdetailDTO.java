@@ -59,12 +59,6 @@ public class TdetailDTO {
 	public void setUnitPrice(int unitPrice) {
 		UnitPrice = unitPrice;
 	}
-
-	@Override
-	public String toString() {
-		return "TdetailDTO [TDetailID=" + TDetailID + ", TransactionID=" + TransactionID + ", ProductID=" + ProductID
-				+ ", Purchase=" + Purchase + ", UnitPrice=" + UnitPrice + "]";
-	}
 	
 	
 	
