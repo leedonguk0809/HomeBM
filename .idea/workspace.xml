@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acbfec65-fd94-4c92-9168-33a29dfc515f" name="Changes" comment="">
+    <list default="true" id="acbfec65-fd94-4c92-9168-33a29dfc515f" name="Changes" comment="01">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/InventoryDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DAO/InventoryDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/PaymentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DAO/PaymentDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/ProductDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DAO/ProductDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/TdetailDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DAO/TdetailDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/TransactionDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DAO/TransactionDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DAO/UserDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DTO/InventoryDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DTO/InventoryDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DTO/PaymentDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DTO/PaymentDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DTO/ProductDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DTO/ProductDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DTO/TdetailDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DTO/TdetailDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DTO/TransactionDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DTO/TransactionDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DTO/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DTO/UserDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/config/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/config/jdbc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config/jdbc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/config/mapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config/mapper.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,11 +75,35 @@
       <option name="presentableId" value="Default" />
       <updated>1712674098473</updated>
       <workItem from="1712674099607" duration="1270000" />
-      <workItem from="1712795266333" duration="3916000" />
+      <workItem from="1712795266333" duration="4700000" />
     </task>
+    <task id="LOCAL-00001" summary="01">
+      <option name="closed" value="true" />
+      <created>1712801902323</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712801902323</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="01" />
+    <option name="LAST_COMMIT_MESSAGE" value="01" />
   </component>
 </project>
