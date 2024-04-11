@@ -1,4 +1,4 @@
-package DTO;
+package DAO;
 
-public class UserDTO {
+public class UserDAO {
 }

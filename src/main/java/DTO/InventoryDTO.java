@@ -1,2 +1,5 @@
-package DTO;public class InventoryDTO {
+package DTO;
+
+public class InventoryDTO {
+
 }

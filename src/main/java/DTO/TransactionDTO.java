@@ -1,2 +1,4 @@
-package DTO;public class TransactionDTO {
+package DTO;
+
+public class TransactionDTO {
 }

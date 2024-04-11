@@ -1,2 +1,4 @@
-package DTO;public class TdetailDTO {
+package DTO;
+
+public class TdetailDTO {
 }
